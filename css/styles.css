@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  line-height: 15px;
+  font-family: "PT Sans Caption", sans-serif;
+}
+
+.impact-report {
+  letter-spacing: 1.2px;
+  font-size: 0.9rem;
+  text-decoration: underline;
+}
+
+.model-s {
+  background: url(../image/model-s.png);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+
+.logo {
+  width: 50%;
+}
+
+li a {
+  color: black !important;
+  text-transform: capitalize;
+}
+
+.navbar-ki {
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+.head-s {
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+.order-s {
+  font-size: 13px;
+}
+.btn-ki {
+  border-radius: 2rem;
+
+  font-size: 0.8rem;
+}
+
+.model-3 {
+  background: url(../image/model-3.png);
+  height: 100vh;
+  /* background-attachment: fixed; */
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+.model-x {
+  background: url(../image/model-x.png);
+  height: 100vh;
+  /* background-attachment: fixed; */
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+.model-y {
+  background: url(../image/model-y.png);
+  height: 100vh;
+  /* background-attachment: fixed; */
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
